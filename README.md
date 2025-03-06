@@ -11,9 +11,10 @@ HerWell is an AI-powered web application that provides personalized healthcare r
 ✅ User Authentication (Signup/Login)
 
 🧪 Sample Usage
-Sign up/Login
-Enter Symptoms
-View Disease Predictions & Health Recommendations
+->Sign up/Login
+->Enter Symptoms
+->View Disease Predictions & Health Recommendations
+
 📌 Future Enhancements
 🔹 Voice-based Symptom Input
 🔹 Chatbot for Medical Queries
