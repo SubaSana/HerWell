@@ -1,29 +1,38 @@
-HerWell: Personalized Women’s Healthcare System
-Empowering Women Through Data-Driven Health Insights
+# HerWell
 
-Overview
-HerWell is an AI-powered web application that provides personalized healthcare recommendations 
+A Personalized Women’s Healthcare System
+
+## Overview
+HerWell is a platform provides personalized healthcare recommendations 
 for women based on symptoms and preferences. The system detects potential health issues and offers diet, workout, and precaution suggestions using machine learning models.
 
- Features:
-1)Symptom-based Disease Prediction
+## Features:
+```text
+Symptom-based Disease Prediction
 
-2)Personalized Health Recommendations (Precautions, Diet, Workout)
+Personalized Health Recommendations (Precautions, Diet, Workout)
 
-3)Severity-Based Alerts
+Severity-Based Alerts
 
-4)User Authentication (Signup/Login)
+User Authentication (Signup/Login)
+```
 
- Sample Usage:
-1)Sign up/Login
+## How it works
 
-2)Enter Symptoms
+-User registers or logs into the platform
 
-3)View Disease Predictions & Health Recommendations
+-User provides personal and health-related inputs
 
- Future Enhancements:
- 1)Voice-based Symptom Input
+-Backend processes the data using predefined logic-
+
+-Personalized insights and recommendations are generated
+
+-User views results on the dashboard
+
+ ## Future Enhancements:
  
- 2)Chatbot for Medical Queries
+ Voice-based Symptom Input
  
- 3)Multi-language Support
+ Chatbot for Medical Queries
+ 
+ Multi-language Support
