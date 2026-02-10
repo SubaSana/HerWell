@@ -27,9 +27,10 @@ User Authentication (Signup/Login)
 
 -Personalized insights and recommendations are generated
 
--User views results on the dashboard
+-Currently CLI based.
 
  ## Future Enhancements:
+ Full Fledged web Application.
  
  Voice-based Symptom Input
  
